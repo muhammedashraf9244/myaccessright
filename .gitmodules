@@ -1,0 +1,4 @@
+[submodule "wintzarchihtun/om_hospital-odoo"]
+	path = wintzarchihtun/om_hospital-odoo
+	url = git@github.com:wintzarchihtun/om_hospital-odoo.git
+	branch = master
